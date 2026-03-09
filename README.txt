@@ -4,4 +4,4 @@ For those who are interested in finding random paragraphs, that's exactly what t
 
 
 For writers looking for a way to get their creative writing juices flowing, using a random paragraph can be a great way to do this. One of the great benefits of this tool is that nobody knows what is going to appear in the paragraph. This can be leveraged in a few different ways to force the writer to use creativity. For example, the random paragraph can be used as the beginning paragraph of a story that the writer must finish. 
-changes made for git practical
+changes made for git practical......
